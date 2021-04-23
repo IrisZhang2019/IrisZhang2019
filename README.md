@@ -1,6 +1,5 @@
 ### Hello world!
-- Hi, I’m Iris Zhang, data scientist based in Tokyo
-- I’m interested in AI x Architecture
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=IrisZhang2019&count_private=true&show_icons=false" />
