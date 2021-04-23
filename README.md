@@ -1,10 +1,5 @@
 ### Hello world!
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=IrisZhang2019&count_private=true&show_icons=false" />
-</a>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrisZhang2019&layout=compact" />
 </a>
@@ -20,6 +15,10 @@
 </p>
 
 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=IrisZhang2019&count_private=true&show_icons=false" />
+</a>
 
 
 IrisZhang2019/IrisZhang2019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
